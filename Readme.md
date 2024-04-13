@@ -9,16 +9,22 @@ This aims to assist engineers in keeping a register of all model changes without
 
 **prosper_mc.py**
 &emsp; -Main script; all code is centralized here except the OpenServer functions.
+
 **petexosfunctions\.py**
 &emsp; -OpenServer functions (doGet, doSet, doCmd, etc).
+
 **model_history.sqlite**
 &emsp; -Database file resulting from running the script.
+
 **Prosper_OS_Variables.txt**
 &emsp; -All Prosper OpenServer strings (variables).
+
 **Prosper_OS_Variables_main.txt**
 &emsp; -Group of handpicked Openserver strings.
+
 **models folder**
 &emsp; -Constains a few sample Prosper models (from IPM samples).
+
 **output.png**
 &emsp; -Dummy model history sample.
 
