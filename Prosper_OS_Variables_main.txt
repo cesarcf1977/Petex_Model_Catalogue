@@ -16,3 +16,5 @@ PROSPER.PVT.Input.PBcorr
 PROSPER.PVT.Input.PBcorrLabel
 PROSPER.PVT.Input.UOcorr
 PROSPER.PVT.Input.UOCorrLabel
+PROSPER.ANL.COR.Corr[{PetroleumExperts2}].A[0]
+PROSPER.ANL.COR.Corr[{PetroleumExperts2}].A[1]
