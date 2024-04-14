@@ -31,6 +31,8 @@ If you want to use it for more serius business, you'll have to create something 
 For managing the database I find using https://sqlitebrowser.org/ quite handy.
 
 ## DISCLAIMERS
+While it only takes a few seconds to run and the data overhead is negligible, the kind of brute force attack performed if reading/writing all OpenServer variables should be optimized by targetting only specific groups of variables relevant to our models in the OpenServer universe. 
+
 Plenty to optimize on the database management and queries, but this is just a working example...and works.
 
 In this mvp, everything is treated and stored as text in the database. You can keep it like that and perform the required conversions when reading the data, or implement custom types as required.
